@@ -1,0 +1,16 @@
+{
+    "name": "hyper-chat",
+    "version": "0.1.0",
+    "description": "Simple chat app built with socket.io and hyperapp",
+    "type": "module",
+    "scripts": {
+        "start": "nodemon index.js"
+    },
+    "dependencies": {
+        "express": "^4.17.2",
+        "socket.io": "^4.4.1"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.15"
+    }
+}
